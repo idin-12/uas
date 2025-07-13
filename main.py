@@ -36,8 +36,7 @@ for j in range(num_constraints):
 # ===============================
 # Header aplikasi
 st.title("📈 Aplikasi Optimasi Produksi")
-st.write("Maksimalkan keuntungan produksi dengan kendala waktu, bahan baku, dan tenaga kerja menggunakan Linear Programming (Simplex Method).")
-
+st.write("Maksimalkan keuntungan produksi dengan beberapa kendala menggunakan Linear Programming.")
 # ===============================
 # Convert input ke numpy array
 A = np.array(A)
