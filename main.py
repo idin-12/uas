@@ -93,4 +93,4 @@ if st.button("🚀 Hitung Solusi Optimal"):
 # ===============================
 # Footer
 st.markdown("---")
-st.caption("Dibuat dengan ❤️ menggunakan Streamlit dan SciPy oleh Muhyiddin As Syarif.")
+
